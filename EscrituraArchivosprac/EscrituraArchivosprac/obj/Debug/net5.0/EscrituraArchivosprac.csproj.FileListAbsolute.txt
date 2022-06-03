@@ -1,0 +1,16 @@
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\bin\Debug\net5.0\EscrituraArchivosprac.exe
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\bin\Debug\net5.0\EscrituraArchivosprac.deps.json
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\bin\Debug\net5.0\EscrituraArchivosprac.runtimeconfig.json
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\bin\Debug\net5.0\EscrituraArchivosprac.runtimeconfig.dev.json
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\bin\Debug\net5.0\EscrituraArchivosprac.dll
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\bin\Debug\net5.0\ref\EscrituraArchivosprac.dll
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\bin\Debug\net5.0\EscrituraArchivosprac.pdb
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\obj\Debug\net5.0\EscrituraArchivosprac.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\obj\Debug\net5.0\EscrituraArchivosprac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\obj\Debug\net5.0\EscrituraArchivosprac.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\obj\Debug\net5.0\EscrituraArchivosprac.AssemblyInfo.cs
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\obj\Debug\net5.0\EscrituraArchivosprac.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\obj\Debug\net5.0\EscrituraArchivosprac.dll
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\obj\Debug\net5.0\ref\EscrituraArchivosprac.dll
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\obj\Debug\net5.0\EscrituraArchivosprac.pdb
+C:\Users\Angel\Desktop\2DO SEMESTRE\P.O.O\Unidad 6\EscrituraArchivosprac\EscrituraArchivosprac\obj\Debug\net5.0\EscrituraArchivosprac.genruntimeconfig.cache
